@@ -1,0 +1,35 @@
+.container {
+  width: 1368px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 15px;
+}
+
+.about__cont-flex {
+  display: flex;
+}
+.about__title {
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 72px;
+  color: #000000;
+}
+.about__paragraph {
+  font-weight: 400;
+  line-height: 36px;
+}
+.about__list {
+  display: flex;
+  gap: 131px;
+}
+
+.about__numb {
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 72px;
+  color: #2a3246;
+}
+.about__text {
+  line-height: 30px;
+  color: #8f95a5;
+}
